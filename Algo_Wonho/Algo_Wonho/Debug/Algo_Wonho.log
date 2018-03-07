@@ -1,0 +1,4 @@
+﻿  Algo_Wonho.cpp
+c:\users\haho6\onedrive\문서\github\c-\algo_wonho\algo_wonho\algo_wonho.cpp(32): warning C4101: 'w3' :참조되지 않은 지역 변수입니다.
+c:\users\haho6\onedrive\문서\github\c-\algo_wonho\algo_wonho\algo_wonho.cpp(32): warning C4101: 'w5' :참조되지 않은 지역 변수입니다.
+  Algo_Wonho.vcxproj -> C:\Users\haho6\OneDrive\문서\GitHub\C-\Algo_Wonho\Debug\Algo_Wonho.exe
